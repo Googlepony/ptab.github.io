@@ -1,3 +1,2 @@
 Flask
 tabula-py
-pandas
